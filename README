@@ -1,0 +1,29 @@
+Features
+
+Display list of all countries with flags
+
+Search countries by name
+
+Filter countries by region
+
+View detailed country information
+
+Dynamic routing for country detail pages
+
+Responsive UI for all screen sizes
+
+Tech Stack
+
+React.js
+
+JavaScript (ES6)
+
+React Router DOM
+
+Axios
+
+HTML5
+
+CSS3
+
+REST Countries API
